@@ -18,4 +18,4 @@ to 3 and the highest value is considered as graded score for the particular essa
 
 
 
-![System Architechture](https://github.com/[Prrriyanka]/[Machine_learning]/blob/[Master]/Capture.PNG?raw=true)
+![System Architechture](https://github.com/[Prrriyanka]/[Machine_learning]/blob/[Prrriyanka/images]/Capture.PNG?raw=true)
